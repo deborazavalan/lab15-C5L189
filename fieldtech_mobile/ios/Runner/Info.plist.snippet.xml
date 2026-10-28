@@ -1,0 +1,8 @@
+<!-- Pegue estas claves DENTRO del bloque <dict> de ios/Runner/Info.plist
+     (el Info.plist completo lo genera `flutter create`) -->
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>FieldTech requiere su ubicacion para georreferenciar la incidencia.</string>
+<key>NSCameraUsageDescription</key>
+<string>FieldTech requiere la camara para capturar evidencia fotografica.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>FieldTech requiere la galeria para seleccionar fotos de archivo.</string>

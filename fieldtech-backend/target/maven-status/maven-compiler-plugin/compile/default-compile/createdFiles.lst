@@ -1,0 +1,5 @@
+com\fieldtech\domain\Incidencia.class
+com\fieldtech\data\IncidenciaRepository.class
+com\fieldtech\FieldtechBackendApplication.class
+com\fieldtech\controller\IncidenciaController.class
+com\fieldtech\business\IncidenciaService.class
